@@ -1,0 +1,17 @@
+procrank 60
+lsof 600
+meminfo 60
+slabinfo 60
+pagetypeinfo 60
+dumpsysmeminfo 60
+top 60
+kmemleak 60
+iondump 60
+zram 60
+df 60
+trag 60
+fdleak 300 70
+cpustats 60
+ramstats 60
+rpmstats 60
+kgsl 300

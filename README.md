@@ -1,0 +1,13 @@
+# msm8953_64-userdebug 8.1.0 OPM1.171019.026 eng.lnxbui.20180907.064417 test-keys
+- manufacturer: qualcomm
+- platform: msm8953
+- codename: msm8953_64
+- flavor: msm8953_64-userdebug
+- release: 8.1.0
+- id: OPM1.171019.026
+- incremental: eng.lnxbui.20180907.064417
+- tags: test-keys
+- fingerprint: Android/msm8953_64/msm8953_64:8.1.0/OPM1.171019.026/lnxbui09070644:userdebug/test-keys
+- brand: Android
+- branch: msm8953_64-userdebug-8.1.0-OPM1.171019.026-eng.lnxbui.20180907.064417-test-keys
+- repo: android_qrdsdm632_dump

@@ -1,0 +1,16 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.allow.mock.location=0
+ro.debuggable=1
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Fri Sep 7 06:44:17 PDT 2018
+ro.bootimage.build.date.utc=1536327857
+ro.bootimage.build.fingerprint=Android/msm8953_64/msm8953_64:8.1.0/OPM1.171019.026/lnxbui09070644:userdebug/test-keys
+persist.sys.usb.config=adb
+persist.sys.language=zh
+persist.sys.country=CN
